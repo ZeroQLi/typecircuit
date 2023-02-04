@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script></script>
+
+<div class=" text-stone-700">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo pariatur quis voluptas accusamus, libero ab reiciendis nostrum aliquam, amet ducimus aut corrupti consequuntur illo tenetur maxime ratione nihil. Ea, alias.</p>
+
+</div>
+
+<style>
+
+
+</style>
